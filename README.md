@@ -1,3 +1,2 @@
-# bashrc
-#this will be a playground for my .bashrc fileNeed to change it a little bit
-#finally i will learn linux process management//top is a usefull command
+# config
+## This is where I save my config files
