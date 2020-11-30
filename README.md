@@ -1,2 +1,4 @@
-# config
-## This is where I save my config files
+## config files
+Currently includes:
+>.tmux.conf
+>init.vim
