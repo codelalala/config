@@ -5,3 +5,5 @@ Currently includes:
 >.tmux.conf
 
 >init.vim
+
+>.conkyrc
