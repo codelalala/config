@@ -31,8 +31,9 @@ let g:neoformat_basic_format_align = 1
 let g:neoformat_basic_format_retab = 1 
 " Enable trimmming of trailing whitespace 
 let g:neoformat_basic_format_trim = 1
-"Use system clipboard
-:set clipboard=unnamed 
+"Use system clipboard,commented out, I think it is better to use different
+"registers
+":set clipboard=unnamed 
 "display symbol
 :set listchars=eol:¬,tab:>·,trail:~,extends:>,precedes:<,space:␣
 :set list
