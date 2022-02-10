@@ -7,3 +7,5 @@ Currently includes:
 >init.vim
 
 >.conkyrc
+
+>rclone_onedrive.sh
